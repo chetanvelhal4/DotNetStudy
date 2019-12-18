@@ -10,6 +10,8 @@ namespace MyDotNetPractice
     {
         static void Main(string[] args)
         {
+            Console.Write("Hellow World");
+            Console.ReadKey();
         }
     }
 }
